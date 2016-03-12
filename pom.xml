@@ -6,7 +6,7 @@
     <!-- the base -->
     <groupId>de.yaio.converter</groupId>
     <artifactId>jsh-pegdown</artifactId>
-    <version>0.1.0</version>
+    <version>0.1.1</version>
     <name>Jsh-Extended-Pegdown</name>
     <description>YourAllInOne Markdown-Service</description>
     <url>https://github.com/das-praktische-schreinerlein/yjsh-pegdown</url>
@@ -51,7 +51,7 @@
          -->
         <!--  versions -->
         <java.version>1.7</java.version>
-        <yaio-commons.version>0.2.1</yaio-commons.version>
+        <yaio-commons.version>[0.3.0,0.4.0)</yaio-commons.version>
         <pegdown.version>1.6.0</pegdown.version>
 
         <junit.version>4.11</junit.version>
